@@ -66,6 +66,7 @@ kdrt
 kdrt
 kdrt
 kdrt
+<<<<<<< HEAD
 gjxsbb
 gjxsbb
 gjxsbb
@@ -110,3 +111,5 @@ gjxsbb
 gjxsbb
 gjxsbb
 gjxsbb
+=======
+>>>>>>> second
